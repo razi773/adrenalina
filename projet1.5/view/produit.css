@@ -36,7 +36,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('photo55.jpg');
+    background: url('https://i.ibb.co/4d8CYtM/background-header.jpg');
     background-size: cover;
     color: #fff;
     padding: 40px;
@@ -63,14 +63,18 @@ header button{
     cursor: pointer;
 }
 
-.main{
+/*.main{
     margin-top: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
-
+.main .content .card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom:20px;
+}
 .main .content .card .left{
    flex: 0 0 30%;
    padding: 20px;
@@ -81,19 +85,35 @@ header button{
     height:300px;
     width: 400px;
     margin-top: 5px;
-}
-.img-fluid {
-    max-width: 100%;
-    height: auto; }
-  
-  .img-thumbnail {
-    padding: 0.25rem;
-    background-color: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: 0.25rem;
-    max-width: 100%;
-    height: auto; }
-
+}*/
+main{
+    margin: 20px;
+    margin-top: 80px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+  }
+  /* Toutes les cartes */
+  .cards{
+    display:flex;
+    flex-wrap:wrap;
+  }
+  .cards .card{
+    margin-right: 20px;
+    cursor:pointer;
+  }
+  .cards .card img{
+    width: 350px;
+  }
+  .cards .card .card-header{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+  }
+  .cards .card .card-body p{
+    margin-top: -10px;
+  }
 footer{
     margin-top: 40px;
     border-top: 5px solid #6f6f6f;

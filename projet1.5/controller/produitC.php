@@ -16,7 +16,7 @@ class produitC{
     }
     function produitBAS()
 	{
-		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite<100;";
+		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite<3;";
 		$db = config::getConnexion();
 		try
 		{
@@ -30,7 +30,7 @@ class produitC{
 	}
     function produitMOY()
 	{
-		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite>=1 AND quantite<5; ";
+		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite>=4 AND quantite<9; ";
 		$db = config::getConnexion();
 		try
 		{
@@ -44,7 +44,7 @@ class produitC{
 	}
     function produitHAUT()
 	{
-		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite>=233 ";
+		$sql="SELECT count(*)as nbr FROM `produit` where 	quantite>=200 ";
 		$db = config::getConnexion();
 		try
 		{

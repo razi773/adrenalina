@@ -16,7 +16,9 @@
         $config = config::getConnexion();
         
             $querry = $config->prepare('
-            select nom as nom  from produit');
+            select nom as nom  ,
+            description as description
+             from produit');
             $querry->execute();
             $data = $querry->fetchAll();
             // print_r($data);exit();
