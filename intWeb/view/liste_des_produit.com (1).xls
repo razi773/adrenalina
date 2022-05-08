@@ -1,0 +1,265 @@
+   <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" border='2'>
+                                    <thead>
+
+  <tr>
+  <th>id_produit</th>
+    <th>nom</th>
+    <th>prix</th>
+    <th>description</th>
+    <th>quantite</th>
+    <th>id_type</th>
+   
+
+  </tr>
+  
+  
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+</td>
+                                               
+
+
+
+                                               
+                                               
+                                                
+                                                </tr>
+                                            
+                                                </div>
+                      </div>
+                  </div>
+
+              </div>
+              <!-- /.container-fluid -->
+
+          </div>
+
+
+      
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+</td>
+                                               
+
+
+
+                                               
+                                               
+                                                
+                                                </tr>
+                                            
+                                                </div>
+                      </div>
+                  </div>
+
+              </div>
+              <!-- /.container-fluid -->
+
+          </div>
+
+
+      
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+</td>
+                                               
+
+
+
+                                               
+                                               
+                                                
+                                                </tr>
+                                            
+                                                </div>
+                      </div>
+                  </div>
+
+              </div>
+              <!-- /.container-fluid -->
+
+          </div>
+
+
+      
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+</td>
+                                               
+
+
+
+                                               
+                                               
+                                                
+                                                </tr>
+                                            
+                                                </div>
+                      </div>
+                  </div>
+
+              </div>
+              <!-- /.container-fluid -->
+
+          </div>
+
+
+      
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>26</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>27</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>28</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>29</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>30</b><br />
+</td>
+                                                <td><br />
+<b>Notice</b>:  Undefined variable: cliennt in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\intWeb\view\export_excel.php</b> on line <b>31</b><br />
+</td>
+                                               
+
+
+
+                                               
+                                               
+                                                
+                                                </tr>
+                                            
+                                                </div>
+                      </div>
+                  </div>
+
+              </div>
+              <!-- /.container-fluid -->
+
+          </div>
+
+
+      </table>
