@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adrenalina</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shoet icon" href="Images/Rueeus.PNG">
+</head>
+<body>
+           
+        <div id="error">
+            
+        </div>
+    <nav>
+        <div class="left">
+            
+            <img src="Images/Logo Adrenalina.PNG" alt="logo" height="100" width="200">
+            
+        </div>
+        
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#produits">Nos évènements</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Adrenalina,</h1>
+        <h4>LE MEILLEUR PARC D'ATTRACTIONS.</h4>
+        <button>Parcourir</button>
+    </header>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Festival de Rio </h1>
+                    <p>Cet évènement a pour thème le célèbre festival de Rio avec de nombreux danseurs Braziliens.</p>
+                    <br><br><br><br>
+                    <p>22 Juillet</p>
+                    <a href="Affichage.php?NumEvent=<?php echo $Event['NumEvent'];?>"><p><button>Participer</button></p></a>
+                </div>
+                <div class="right">
+                    <img src="Images/RIO.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Santa Malo</h1>
+                    <p>Venez danser et chanter avec le père noël. De nombreuses surprises vous attendent.</p>
+                    <br><br><br><br>
+                    <p>24 Décembre</p>
+                    <a href="Affichage.php?NumEvent=<?php echo $Event['NumEvent'];?>"><p><button>Participer</button></p></a>
+                </div>
+                <div class="right">
+                    <img src="Images/Santa.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Lapino </h1>
+                    <p>Goutez aux nombreuses recettes de chocolats préparées spécialement par le lapin de paque qui rendera visite au parc.</p>
+                    <br><br><br><br>
+                    <p>17 Avril</p>
+                    <a href="Affichage.php?NumEvent=s<?php echo $Event['NumEvent'];?>"><p><button>Participer</button></p></a>
+                </div>
+                <div class="right">
+                    <img src="Images/Lapino.jpg" alt="">
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+
+   
+
+    <footer>
+
+        <h1>Nos contacts</h1>
+       
+
+        <p id="contact">Contact : 26 995 933 | 71 588 477 | &copy; 2021, Adrenalina.</p>
+    </footer>
+</body>
+</html>

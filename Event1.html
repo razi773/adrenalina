@@ -1,0 +1,138 @@
+<?php
+    include_once '../Model/Event.php';
+    include_once '../Controller/EventC.php';
+    ?>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Vitrine - Frenchcoder</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+           
+        <div id="error">
+            <?php echo $error; ?>
+        </div>
+    <nav>
+        <div class="left">
+            
+            <img src="Images/Logo Adrenalina.PNG" alt="logo" height="100" width="200">
+            
+        </div>
+        
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#produits">Nos évènements</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Adrenalina,</h1>
+        <h4>LE MEILLEUR PARC D'ATTRACTIONS.</h4>
+        <button>Parcourir</button>
+    </header>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Evènements à thèmes </h1>
+                    <p>Des évènements variés sont organisés chaques semaines. De nombreuses surprises vous attendent.</p>
+                </div>
+                <div class="right">
+                    <img src="Images/danse-africaine-senegal1-1200x640.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Les anniversaires</h1>
+                    <p>Nous organisons des anniversaires spectaculaires avec de nombreuses activitées délirantes.</p>
+                </div>
+                <div class="right">
+                    <img src="Images/0040192_900.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <form action="" method="POST">
+        
+        <h1>S'inscrire</h1>
+        <table border="1" align="center">
+            <tr>
+                <td>
+                    <label for="numEvent">Numéro Event:
+                    </label>
+                </td>
+                <td><input type="text" name="numEvent" id="numEvent" maxlength="20"></td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="nom">Nom:
+                    </label>
+                </td>
+                <td><input type="text" name="nom" id="nom" maxlength="20"></td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="prenom">Prenom:
+                    </label>
+                </td>
+                <td><input type="text" name="prenom" id="prenom" maxlength="20"></td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="adresse">Adresse:
+                    </label>
+                </td>
+                <td>
+                    <input type="text" name="adresse" id="adresse">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="email">Adresse mail:
+                    </label>
+                </td>
+                <td>
+                    <input type="email" name="email" id="email">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="date">Date d'inscription:
+                    </label>
+                </td>
+                <td>
+                    <input type="date" name="dateins" id="dateins" >
+                </td>
+            </tr>              
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Envoyer"> 
+                </td>
+                <td>
+                    <input type="reset" value="Annuler" >
+                </td>
+            </tr>
+        </table>
+    </form>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <button><a href="afficherEvent.php">Afficher la liste des Events</a></button>
+        <hr>
+
+    <footer>
+
+        <h1>Nos contacts</h1>
+       
+
+        <p id="contact">Contact : 26 995 933 | 71 588 477 | &copy; 2021, Adrenalina.</p>
+    </footer>
+</body>
+</html>
