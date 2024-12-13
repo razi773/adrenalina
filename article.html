@@ -1,0 +1,145 @@
+<html lang="fr">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adrenalina </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="article.css">
+</head>
+<body>
+    <nav>
+        <h1>Adrenalina</h1>
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#article">article</a>
+            
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header>
+        <h1>Adrenalina</h1>
+        <h4>LE MEILLEUR park.</h4>
+        
+    </header>
+    <?php 
+                foreach ($articleS as $article) {
+                  
+        ?>
+
+
+<tr >
+
+<div id="corps" align=center >
+    <table width=100% border=6 cellspacing=12 cellpadding=5>
+        <tr>
+        <tr>
+           
+              <table  class="table_2">
+                <div class="latest-news pt-150 pb-150">
+	
+
+  <div class="row">
+    <div >
+      <div class="single-latest-news">
+        <a href="ai1.html"><div class="latest-news-bg news-bg-1"></div></a>
+        <div class="news-text-box">
+      
+        <p class="blog-meta">
+                        
+    
+							<td>	<span class="author"><i class="fas fa-user"></i>    <colspan=2 > <?php echo $article['auteur'] ; ?>  </span></td>
+              <td > <span class="date"><i class="fas fa-calendar"></i> <?php echo $article['date'] ; ?></span>  </td> 
+             
+            </p>                
+                    </tr>
+                    <tr >
+                    
+                        <td rowspan=2><p class="excerpt"><?php echo $article['description'] ; ?></p>
+                         <a  class="read-more-btn" href='filtrarticle.php?id=<?php echo $article['id'] ; ?>'> read more <i class="fas fa-angle-right"></i></a> </td>
+                        <h3><a href="ai1.html"> <td colspan=2 > <?php echo $article['titre'] ; ?>  </td></a></h3>
+                      
+
+                    </tr>
+                    <tr height=40> 
+        
+                        <td >    <img class="im" src="image/tech.jpg"  ></td> 
+                 </tr>
+                 	</div>
+					</div>
+				</div>
+				</div>
+					</div>
+               </table>
+               
+             </td>
+           </tr>
+         
+        <?php
+                }
+        ?>
+        
+    </table>
+    <td><div class="text-center">
+  <a href="user_data_print.php" class="btn btn-primary">print </a></td>
+</div>
+
+</section>
+
+    <section class="main" id="article">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Grande roue</h1>
+                    <p>Une grande roue ou roue panoramique est une variante de très grande taille des manèges.
+
+                        L'attraction est constituée d'une roue à la verticale ainsi que de nacelles attachées à la jante où montent les passagers. La première grande roue fut conçue par George Washington Gale Ferris Jr. à l'occasion de l'Exposition universelle de 1893 à Chicago.</p>
+                </div>
+                <div class="right">
+                    <img src="C:\xampp\htdocs\projet\image\grand roue.jpg" alt="">*
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Nos recettes</h1>
+                    <p>Nous mettons à votre disposition les recettes de nos burgers les plus délicieux ! </p>
+                </div>
+                <div class="right">
+                    <img src="https://i.ibb.co/LS2T9sD/burger2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <html>
+  <head>
+    <title>Titre du document</title>
+  </head>
+  <body>
+    <video width="1500" height="500" controls>
+      <source src="image/video.mp4" type=video/ogg> <source src="/build/videos/arcnet.io(7-sec).mp4" type=video/mp4>
+    </video>
+   
+  </body>
+</html>
+
+    <footer>
+
+        <h1>Nos contact</h1>
+        <div class="services">
+            
+            <div class="service">
+                <h3>ADRESSE</h3>
+                <p>Cite l Ghazela Aryena Soghra</p>
+            </div>
+
+           
+        </div>
+
+        <p id="contact">Telephone : 26 995 933 or 71 588 477 | &copy; 2022,Adrinalina.</p>
+    </footer>
+</body>
+</html>
